@@ -1,6 +1,6 @@
 [![GCP Python 3.7](https://github.com/martingus/github-actions-demo/actions/workflows/gcp.yml/badge.svg)](https://github.com/martingus/github-actions-demo/actions/workflows/gcp.yml)
 
-[![Azure Python 3.6](https://github.com/martingus/github-actions-demo/actions/workflows/main.yml/badge.svg)](https://github.com/martingus/github-actions-demo/actions/workflows/main.yml)![image](https://user-images.githubusercontent.com/16271912/152659730-164de0cc-6e2d-4b71-80ee-c3b26620b81e.png)
+[![Azure Python 3.6](https://github.com/martingus/github-actions-demo/actions/workflows/main.yml/badge.svg)](https://github.com/martingus/github-actions-demo/actions/workflows/main.yml)
 
 
 # github-actions-demo
