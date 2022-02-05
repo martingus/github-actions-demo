@@ -1,4 +1,7 @@
-![Python application test with Github Actions](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+[![GCP Python 3.7](https://github.com/martingus/github-actions-demo/actions/workflows/gcp.yml/badge.svg)](https://github.com/martingus/github-actions-demo/actions/workflows/gcp.yml)
+
+[![Azure Python 3.6](https://github.com/martingus/github-actions-demo/actions/workflows/main.yml/badge.svg)](https://github.com/martingus/github-actions-demo/actions/workflows/main.yml)![image](https://user-images.githubusercontent.com/16271912/152659730-164de0cc-6e2d-4b71-80ee-c3b26620b81e.png)
+
 
 # github-actions-demo
 This is a fork of a repo made by instructor Noah Gift (Coursera cloud foundation course) for building out Github Actions and Tricks.  
